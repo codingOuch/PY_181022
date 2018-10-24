@@ -1,0 +1,12 @@
+this is a file.
+The file is used for testing FileReader in Python.
+SO What is Python?
+Python is a script language. It's very easy to learn, and the grammar is  quite like the natural language that we human use.
+With these days of learning, you will find the great charm and charisma of this magical language.This is something new, isn't it?
+This is something new, isn't it?
+This is something new, isn't it?
+This is something new, isn't it?
+This is something new, isn't it?
+This is something new, isn't it?
+This is something new, isn't it?
+This is something new, isn't it?
