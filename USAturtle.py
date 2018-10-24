@@ -18,3 +18,4 @@ my_turtle.shape("turtle")
 while True:
     walk()
 turtle.mainloop()
+help(list)
